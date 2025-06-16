@@ -7,3 +7,4 @@ Regular, **bold**, *italic*, <ins>underlined</ins>, ~~strikethrough~~.
 > This is
 > a block quote.
 
+![data wrapper chart](datawrapper.png)
